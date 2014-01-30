@@ -1,0 +1,9 @@
+Play with optparse, argparse, and/or docopt as interface or alternate interface to program.
+
+Avoid re-writing entire pickle file in future?
+
+Deal with bad input.
+
+Alternatives to pickle.
+
+Buildout.
