@@ -12,15 +12,15 @@ def fibo(num):
     else:
         newvalue = fibo(num-1)+fibo(num-2)
         fibdict[num] = newvalue
-        return newvalue
+        return newvalue3
         
 def main():
     inp = '0'
     while inp != 'x':
         print fibo(int(inp))
-        inp = raw_input('Enter a number => ')
+        inp = raw_input('Enter a number (or x to quit) => ')
     with open('fibo.pk1', 'wb') as f:
-        pickle.dump(fibdict, f)
+        pickle.dump(fibdict, f, -1)
     
 
 if __name__ == "__main__":
