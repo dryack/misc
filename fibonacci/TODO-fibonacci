@@ -2,7 +2,9 @@ Play with optparse, argparse, and/or docopt as interface or alternate interface 
 
 Avoid re-writing entire pickle file in future?
 
-Deal with bad input.
+[done] Deal with bad input.
+
+[done] Prevent recursion limit error.
 
 Alternatives to pickle.
 
