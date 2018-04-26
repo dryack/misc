@@ -5,6 +5,8 @@
 ### Python
  
 ### Go
+- https://appliedgo.net/tui/
+(Text-Based User Interfaces)
 
 ### Rust
 
