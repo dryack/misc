@@ -1,4 +1,4 @@
 misc
 ====
 
-random snippets and code-play
+random snippets, code-play, stuff I found interesting and will forget otherwise
