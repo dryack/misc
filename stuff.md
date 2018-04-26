@@ -1,7 +1,12 @@
-Ruby
+## Coding
 
-Python
+### Ruby
 
-Go
+### Python
+ 
+### Go
 
-Rust
+### Rust
+
+### Rando
+- https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
