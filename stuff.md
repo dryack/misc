@@ -3,6 +3,8 @@
 ### Ruby
 - https://github.com/ruby-concurrency/concurrent-ruby
 
+### Crystal
+
 ### Python
  
 ### Go
