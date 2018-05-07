@@ -4,6 +4,8 @@
 - https://github.com/ruby-concurrency/concurrent-ruby
 - https://github.com/abrom/henkei
 - https://blog.appsignal.com/2017/06/06/ruby-magic-concurrency-event-loop.html
+- https://idiosyncratic-ruby.com/
+- https://github.com/janlelis/irbtools
 
 ### Crystal
 
