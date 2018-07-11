@@ -19,3 +19,14 @@
 
 ### Rando
 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+
+## Other Stuff
+
+### Strength Training
+- https://youtu.be/xrnq4OAN5bE?t=570 - low bar mobility exercises
+- https://www.youtube.com/watch?v=yV-jQmVUEWk - low bar warmups
+- https://www.painscience.com/articles/pain-is-weird.php
+- http://archive.is/OuLIY
+
+### Signalling / Communication
+- http://octavia.zoology.washington.edu/handicap/honest_intro_02.html
