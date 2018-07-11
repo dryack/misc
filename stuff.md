@@ -16,6 +16,7 @@
 - https://www.reddit.com/r/golang/comments/8d3qkr/go_cli_patterns/ (keeper?)
 - https://github.com/avelino/awesome-go (etc, keeper?)
 - https://github.com/alecthomas/kingpin (keeper)
+- https://github.com/c-bata/go-prompt (etc, experimental keeper)
 
 ### Rust
 
