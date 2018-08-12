@@ -2,6 +2,7 @@
 
 ### Ruby
 - https://github.com/vfreefly/kimurai (ruby web scraping framework)
+- https://github.com/baweaver/qo (pattern matching)
 - https://github.com/ruby-concurrency/concurrent-ruby
 - https://github.com/abrom/henkei
 - https://blog.appsignal.com/2017/06/06/ruby-magic-concurrency-event-loop.html
