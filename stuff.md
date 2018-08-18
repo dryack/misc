@@ -1,7 +1,7 @@
 ## Coding
 
 ### Ruby
-- https://github.com/vfreefly/kimurai (ruby web scraping framework)
+- https://github.com/adamstrickland/kimurai (ruby web scraping framework)
 - https://github.com/baweaver/qo (pattern matching)
 - https://github.com/ruby-concurrency/concurrent-ruby
 - https://github.com/abrom/henkei
