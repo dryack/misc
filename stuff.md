@@ -24,6 +24,7 @@
 
 ### Rando
 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+- https://archive.is/0eSHW (ANSI > NCurses rant + code examples)
 
 ## Other Stuff
 
